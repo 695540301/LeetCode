@@ -1,8 +1,8 @@
-package test20;
+package subject20;
 
 import java.util.Stack;
 
-public class Test20 {
+public class Subject20 {
 	public static void main(String[]args)
 	{
 		Solution solution = new Solution();

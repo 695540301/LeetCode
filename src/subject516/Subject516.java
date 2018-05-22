@@ -1,4 +1,4 @@
-package test516;
+package subject516;
 
 /*给定一个字符串s，找到其中最长的回文子序列。可以假设s的最大长度为1000。
 
@@ -20,7 +20,7 @@ package test516;
 2
 一个可能的最长回文子序列为 "bb"。*/
 
-public class Test516 {
+public class Subject516 {
 
 	public static void main(String[] args) {
 		Solution solution = new Solution();
