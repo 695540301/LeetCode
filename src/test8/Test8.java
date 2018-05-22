@@ -1,8 +1,8 @@
-package test9;
+package test8;
 
 
 
-public class Test9 
+public class Test8 
 {
 	public static void main(String[]args)
 	{
