@@ -1,6 +1,6 @@
-package subject4;
+package medianOfTwoSortedArrays;
 
-public class Subject4 {
+public class MedianOfTwoSortedArrays {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

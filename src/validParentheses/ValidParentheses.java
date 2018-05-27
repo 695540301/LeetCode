@@ -1,8 +1,8 @@
-package subject20;
+package validParentheses;
 
 import java.util.Stack;
 
-public class Subject20 {
+public class ValidParentheses {
 	public static void main(String[]args)
 	{
 		Solution solution = new Solution();

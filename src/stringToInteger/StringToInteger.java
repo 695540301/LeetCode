@@ -1,8 +1,8 @@
-package subject8;
+package stringToInteger;
 
 
 
-public class Subject8 
+public class StringToInteger 
 {
 	public static void main(String[]args)
 	{
